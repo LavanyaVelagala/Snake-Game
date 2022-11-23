@@ -9,9 +9,9 @@ public class Emp{
 public static void main(String args[]){  
      Emp O =new Emp();      
      System.out.println (O.a);
-     
+     System.out.println(b);
      O.print();
-     System.out.println(O.b);
+     
 }
 }
 
