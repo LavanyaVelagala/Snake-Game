@@ -10,6 +10,7 @@ public class ListC03 {
   a1.add("Orange");
   a1.add("White");
   a1.add("Black");
+  a1.add("Update");
   for (String s : a1) {
   System.out.println(s);
   }
