@@ -7,7 +7,7 @@ public class ListC02 {
   a1.add("Red");
   a1.add("Green");
   a1.add("Orange");
-  a1.add("White");
+  a1.add("Lavanya");
   a1.add("Black");
   System.out.println(a1);
  }
